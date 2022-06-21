@@ -10,14 +10,14 @@ export const featuredPortfolio = [
   {
     id: 2,
     title: "Unplugged Website",
-    img: "https://github.com/megenbacher/mae-coding/blob/public/assets/unplugged.png?raw=true",
+    img: "assets/unplugged.png",
     link: "https://megenbacher.github.io/206-unplugged/",
 
   },
   {
     id: 3,
     title: "GitHub Repo Gallery",
-    img: "https://github.com/megenbacher/mae-coding/blob/public/assets/github-repo-gallery.png?raw=true",
+    img: "assets/github-repo-gallery.png",
     link: "https://megenbacher.github.io/github-repo-gallery/",
 
   },
