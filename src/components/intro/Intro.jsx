@@ -21,8 +21,8 @@ export default function Intro() {
           <h2>Hi there, I'm</h2>
           <h1>Mary Egenbacher</h1>
           <h3>
-            A Front End Developer creating <br> 
-            </br><span ref={textRef}></span>Code.
+            a Front End Developer creating <br> 
+            </br><span ref={textRef}></span>code.
           </h3>
           </div>
           
