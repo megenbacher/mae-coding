@@ -3,7 +3,7 @@ export const featuredPortfolio = [
 {
     id: 1,
     title: "Super Sticky Note App",
-    img: "https://github.com/megenbacher/mae-coding/blob/public/assets/super-sticky-notes.png?raw=true",
+    img: "assets/super-sticky-notes.png",
     link: "https://w7n2e7.csb.app/",
 
   },
