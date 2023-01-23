@@ -36,7 +36,7 @@ export default function ContactUs() {
           <textarea name="message"placeholder="Your Message"  />
           <button type="submit" value="Send">Send</button>
         </form>
-        <p>Copyright 2022 | Mary Egenbacher</p>
+        <p>Copyright 2023 | Mary Egenbacher</p>
       </div>
     </div>
 
