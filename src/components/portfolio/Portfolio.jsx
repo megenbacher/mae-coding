@@ -22,34 +22,23 @@ export default function Portfolio() {
     },
     {
       id: "html and css",
-      title: "HTML & CSS",
+      title: "STAY",
       link: "",
 
     },
     {
       id: "flexbox",
-      title: "Flexbox",
+      title: "VISIT",
       link: "",
 
     },
     {
       id: "javascript",
-      title: "JavaScript",
+      title: "EAT & DRINK",
       link: "",
 
     },
-    {
-      id: "react",
-      title: "React",
-      link: "",
-
-    },
-    {
-      id: "git and github",
-      title: "Git and GitHub",
-      link: "",
-
-    },
+    
   ];
 
 useEffect(()=>{

@@ -16,30 +16,30 @@ export const featuredPortfolio = [
   },
   {
     id: 3,
-    title: "GitHub Repo Gallery",
-    img: "assets/github-repo-gallery.png",
-    link: "https://megenbacher.github.io/github-repo-gallery/",
+    title: "The Church of Santo Domingo",
+    img: "https://github.com/megenbacher/mae-coding/blob/main/public/assets/santo-domingo.jpeg?raw=true",
+    link: "https://discover-oaxaca.com/culture/santo-domingo-church-convent/",
 
   },
   {
     id: 4,
-    title: "Rogue Pickings",
-    img: "assets/rogue-picking.png",
-    link: "https://megenbacher.github.io/206-rogue-pickings/",
+    title: "Fun Cocktails",
+    img: "https://github.com/megenbacher/mae-coding/blob/main/public/assets/cocktail.jpeg?raw=true",
+    link: "https://limantour.tv/",
 
   },
   {
     id: 5,
-    title: "Spider-Man Challenge Website",
-    img: "assets/spiderman.png",
-    link: "https://megenbacher.github.io/avengers-challenge/",
+    title: "Frida Kahlo Museum",
+    img: "https://github.com/megenbacher/mae-coding/blob/main/public/assets/frida.jpeg?raw=true",
+    link: "https://www.museofridakahlo.org.mx/?lang=en",
 
   },
   {
     id: 6,
-    title: "Guess the Word Game",
-    img: "assets/guess-the-word.png",
-    link: "https://megenbacher.github.io/guess-the-word/",
+    title: "Los Danzantes Restaurant",
+    img: "https://github.com/megenbacher/mae-coding/blob/main/public/assets/dance.jpeg?raw=true",
+    link: "https://losdanzantesoaxaca.com.mx/home/",
 
   }];
 
