@@ -3,15 +3,15 @@ export const featuredPortfolio = [
 {
     id: 1,
     title: "AirBnB in Mexico City",
-    img: "assets/mexico-city-stay.jpg",
+    img: "https://github.com/megenbacher/mae-coding/blob/main/public/assets/mexico-city-stay.jpg?raw=true",
     link: "https://www.airbnb.com/rooms/27683518?source_impression_id=p3_1679423754_PsvLFQOeYukf15Vq",
 
   },
   {
     id: 2,
     title: "Airbnb in Oaxaca City",
-    img: "assets/oaxaca-stay.jpeg",
-    link: "https://megenbacher.github.io/206-unplugged/",
+    img: "https://github.com/megenbacher/mae-coding/blob/main/public/assets/oaxaca-stay.jpeg?raw=true",
+    link: "https://www.airbnb.com/rooms/50778663?source_impression_id=p3_1679430524_5zm8vgU30p0s%2FOjq",
 
   },
   {
