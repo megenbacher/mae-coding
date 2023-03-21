@@ -10,7 +10,7 @@ export default function Intro() {
     showCursor: true,
     backDelay: 1500, 
     backSpeed: 60,
-    strings: ["Clean","Dynamic","Organized"],
+    strings: ["Unique","Beautiful","Magical"],
     });
     }, []);
   
@@ -18,11 +18,11 @@ export default function Intro() {
     <div className="intro" id="intro">
         <div className="wrapper">
           <div className="text-box">
-          <h2>Hi there, I'm</h2>
-          <h1>Mary Egenbacher</h1>
+          <h2>Let's Go To</h2>
+          <h1>Mexico!</h1>
           <h3>
-            a Front End Developer creating <br> 
-            </br><span ref={textRef}></span>code.
+            Get Excited to See One of the Most <br> 
+            </br><span ref={textRef}></span>Places.
           </h3>
           </div>
           
