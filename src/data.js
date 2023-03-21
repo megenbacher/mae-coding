@@ -2,15 +2,15 @@ export const featuredPortfolio = [
 
 {
     id: 1,
-    title: "Super Sticky Note App",
-    img: "assets/super-sticky-notes.png",
-    link: "https://w7n2e7.csb.app/",
+    title: "AirBnB in Mexico City",
+    img: "assets/mexico-city-stay.jpg",
+    link: "https://www.airbnb.com/rooms/27683518?source_impression_id=p3_1679423754_PsvLFQOeYukf15Vq",
 
   },
   {
     id: 2,
-    title: "Unplugged Website",
-    img: "assets/unplugged.png",
+    title: "Airbnb in Oaxaca City",
+    img: "assets/oaxaca-stay.jpeg",
     link: "https://megenbacher.github.io/206-unplugged/",
 
   },
