@@ -30,7 +30,7 @@
 
             .text-box {
                 background-color: rgba(248, 248, 255, 0.671);
-                color: #1d2b30;
+                color: #2f243a;
                 opacity: 0.85;
                 padding: 80px;
                 display: flex;
@@ -41,6 +41,8 @@
                 flex-direction: column;
                 width: 40%;
                 height: 40%;
+
+                
 
                 @include mobile {
                     width: 70%;
@@ -72,7 +74,14 @@
         h1{
             font-size: 50px;
             margin: 10px 0;
+            padding: 20px;
+
+            .fun {
+                font-family: 'Yellowtail', cursive;
+               
+            }
             
+        
     
             @include mobile{
                 font-size: 25px;
@@ -101,7 +110,7 @@
     
             span {
                 font-size: inherit;
-                color:  #5d6f6f;
+                color:  #da627d;
             }
     
             .ityped-cursor {

@@ -19,7 +19,7 @@ export default function Intro() {
         <div className="wrapper">
           <div className="text-box">
           <h2>Let's Go To</h2>
-          <h1>Mexico!</h1>
+          <h1><span class="fun">Mexico!</span></h1>
           <h3>
             Get Excited to See One of the Most <br> 
             </br><span ref={textRef}></span>Places.
