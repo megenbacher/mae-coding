@@ -46,40 +46,33 @@ export const featuredPortfolio = [
 export const htmlPortfolio = [
     {
         id: 1,
-        title: "Unplugged Website",
-        img: "assets/unplugged.png",
-        link: "https://megenbacher.github.io/206-unplugged/",
+        title: "AirBnB in Mexico City",
+        img: "https://github.com/megenbacher/mae-coding/blob/main/public/assets/mexico-city-stay.jpg?raw=true",
+        link: "https://www.airbnb.com/rooms/27683518?source_impression_id=p3_1679423754_PsvLFQOeYukf15Vq",
     
       },
       {
         id: 2,
-        title: "Rogue Pickings",
-        img: "assets/rogue-picking.png",
-        link: "https://megenbacher.github.io/206-rogue-pickings/",
+        title: "Airbnb in Oaxaca City",
+        img: "https://github.com/megenbacher/mae-coding/blob/main/public/assets/oaxaca-stay.jpeg?raw=true",
+        link: "https://www.airbnb.com/rooms/50778663?source_impression_id=p3_1679430524_5zm8vgU30p0s%2FOjq",
     
       },
-      {
-    
-      id: 3,
-      title: "Spider-Man Challenge Website",
-      img: "assets/spiderman.png",
-      link: "https://megenbacher.github.io/avengers-challenge/",
-      
-    }];
+      ];
 
 export const flexboxPortfolio = [
     {
         id: 1,
-        title: "Unplugged Website",
-        img: "assets/unplugged.png",
-        link: "https://megenbacher.github.io/206-unplugged/",
+        title: "The Church of Santo Domingo",
+        img: "https://github.com/megenbacher/mae-coding/blob/main/public/assets/santo-domingo.jpeg?raw=true",
+        link: "https://discover-oaxaca.com/culture/santo-domingo-church-convent/",
     
       },
       {
         id: 2,
-        title: "Rogue Pickings",
-        img: "assets/rogue-picking.png",
-        link: "https://megenbacher.github.io/206-rogue-pickings/",
+        title: "Frida Kahlo Museum",
+        img: "https://github.com/megenbacher/mae-coding/blob/main/public/assets/frida.jpeg?raw=true",
+        link: "https://www.museofridakahlo.org.mx/?lang=en",
     
       }]; 
 
@@ -87,17 +80,17 @@ export const javascriptPortfolio = [
     {
         
         id: 1,
-        title: "Guess the Word Game",
-        img: "assets/guess-the-word.png",
-        link: "https://megenbacher.github.io/guess-the-word/",
+        title: "Fun Cocktails",
+        img: "https://github.com/megenbacher/mae-coding/blob/main/public/assets/cocktail.jpeg?raw=true",
+        link: "https://limantour.tv/",
         
     },
 
      {
         id: 2,
-        title: "GitHub Repo Gallery",
-        img: "assets/github-repo-gallery.png",
-        link: "https://megenbacher.github.io/github-repo-gallery/",
+        title: "Los Danzantes Restaurant",
+        img: "https://github.com/megenbacher/mae-coding/blob/main/public/assets/dance.jpeg?raw=true",
+        link: "https://losdanzantesoaxaca.com.mx/home/",
         
     }];
 
