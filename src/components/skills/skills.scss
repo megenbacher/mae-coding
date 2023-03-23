@@ -73,6 +73,7 @@
             padding: 10px;
             font-size: 20px;
             font-weight: bold;
+            text-decoration: none;
            
 
             @include mobile {
@@ -80,6 +81,7 @@
                 display: flex;
                 justify-content: center;
                 padding: 10px;
+                text-decoration: none;
                 
             }
         }
@@ -89,38 +91,47 @@
         font-size: 30px;
         text-align:  center;
 
+        .fun {
+            font-family: 'Yellowtail', cursive;
+            font-size: 40px;
+            text-align: center;
+            padding-top: 20px;
+            padding-right: 20px;
+
+            //@include mobile {
+                //font-size: 30px;
+                //height: 85%;
+                //overflow: hidden;
+           // }
+        
+
         @include mobile {
             font-size: 30px;
             padding-top: 30px;
             height: 20%;
             overflow: hidden;
         }
-       
+    }
     }
     
     
-        h2{
+        h2 {
             font-size: 30px;
             padding-top: 20px;
             text-align: center;
             display: flex;
             overflow: hidden;
 
+             
+
         
     }
-        h3{
-            font-size: 30px;
-            text-align: center;
-            padding-top: 20px;
+        // h3{
+        //     font-size: 30px;
+        //     text-align: center;
+        //     padding-top: 20px;
 
-            @include mobile {
-                font-size: 30px;
-                height: 85%;
-                overflow: hidden;
-            }
-        }
-
-        
+              
     }
 
 

@@ -22,7 +22,7 @@ export default function Skills() {
         <a href="https://www.airbnb.com/experiences/3922825">Hierve el Agua</a>
       </ul>
 
-              <h3>What are you waiting for?</h3>
+              <h1><span class="fun">What are you waiting for?</span></h1>
      </div>
      </div>
 
