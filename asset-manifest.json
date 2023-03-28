@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/mae-coding/static/css/main.44777612.css",
-    "main.js": "/mae-coding/static/js/main.fe55a04f.js",
-    "static/media/dark-mountains.jpg": "/mae-coding/static/media/dark-mountains.10f5bd547e808dc3bea4.jpg",
-    "static/media/hiking.jpg": "/mae-coding/static/media/hiking.66a389fafc68b964892d.jpg",
+    "main.css": "/mae-coding/static/css/main.f888bc48.css",
+    "main.js": "/mae-coding/static/js/main.fe6d9a75.js",
+    "static/media/cactus.jpeg": "/mae-coding/static/media/cactus.81eb71cae8090a2ea29d.jpeg",
+    "static/media/waterfall.jpg": "/mae-coding/static/media/waterfall.1bde6e191dd5d197a716.jpg",
+    "static/media/flags.jpeg": "/mae-coding/static/media/flags.3a18a67935f668f55d8f.jpeg",
     "index.html": "/mae-coding/index.html",
-    "main.44777612.css.map": "/mae-coding/static/css/main.44777612.css.map",
-    "main.fe55a04f.js.map": "/mae-coding/static/js/main.fe55a04f.js.map"
+    "main.f888bc48.css.map": "/mae-coding/static/css/main.f888bc48.css.map",
+    "main.fe6d9a75.js.map": "/mae-coding/static/js/main.fe6d9a75.js.map"
   },
   "entrypoints": [
-    "static/css/main.44777612.css",
-    "static/js/main.fe55a04f.js"
+    "static/css/main.f888bc48.css",
+    "static/js/main.fe6d9a75.js"
   ]
 }
